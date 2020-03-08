@@ -14,7 +14,7 @@ undefined null string number boolean
 
 typeof:这是一个操作符不是一个函数  
 
-这可以上传上去么
+
 
 
 
