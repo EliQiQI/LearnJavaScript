@@ -1,8 +1,7 @@
 # LearnJavaScript
  JavaScript的一些学习记录
-
-> 主要是记录原生JavaScript的学习过程和一些问题...
-> 再次更改一下试试看
+> 你不知道的JavaScript
+> 主要是记录原生JavaScript的一些疑难点...
 >
 > ![图片](https://s2.ax1x.com/2020/03/07/3OmI58.png)
 
